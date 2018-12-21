@@ -2,44 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff511ce-dc4b-44bf-b0e1-13b63cdee311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/action/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/aboutShop/about-shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/app/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/auth-form/auth-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/auth-redirect/auth-redirect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/dashboard/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/landing/landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/portfolio/portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/portfolio/portfolio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/services/services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/create-store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/flowerFive.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/flowerFour.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/flowerOne.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/flowerSix.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/flowerThree.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/flowerTwo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleware/redux-reporter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middleware/redux-thunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducer/main-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducer/token-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.prod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -71,7 +33,7 @@
           <entry key="jpg" value="4" />
           <entry key="js" value="144" />
           <entry key="json" value="10" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="scss" value="12" />
         </counts>
       </usages-collector>
@@ -80,7 +42,7 @@
           <entry key="Image" value="9" />
           <entry key="JSON" value="12" />
           <entry key="JavaScript" value="144" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="SCSS" value="12" />
         </counts>
@@ -89,7 +51,7 @@
         <counts>
           <entry key="js" value="8324" />
           <entry key="json" value="5" />
-          <entry key="md" value="1503" />
+          <entry key="md" value="1784" />
           <entry key="scss" value="234" />
         </counts>
       </usages-collector>
@@ -97,7 +59,7 @@
         <counts>
           <entry key="JSON" value="5" />
           <entry key="JavaScript" value="8324" />
-          <entry key="Markdown" value="1503" />
+          <entry key="Markdown" value="1784" />
           <entry key="SCSS" value="234" />
         </counts>
       </usages-collector>
@@ -147,16 +109,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/component/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
+            <state relative-caret-position="-267">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="e#136#183#0" expanded="true" />
                 <element signature="e#323#381#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -177,7 +151,6 @@
         <option value="$PROJECT_DIR$/webpack.dev.js" />
         <option value="$PROJECT_DIR$/src/middleware/redux-reporter.js" />
         <option value="$PROJECT_DIR$/src/middleware/redux-thunk.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/server.js" />
         <option value="$PROJECT_DIR$/src/action/auth.js" />
         <option value="$PROJECT_DIR$/src/component/landing/landing.js" />
@@ -204,6 +177,7 @@
         <option value="$PROJECT_DIR$/style/variables.scss" />
         <option value="$PROJECT_DIR$/style/base.scss" />
         <option value="$PROJECT_DIR$/src/component/app/app.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -349,12 +323,12 @@
       <updated>1544911684081</updated>
       <workItem from="1544911685577" duration="15130000" />
       <workItem from="1545283430499" duration="1056000" />
-      <workItem from="1545294276683" duration="23562000" />
+      <workItem from="1545294276683" duration="23943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39748000" />
+    <option name="totallyTimeSpent" value="40129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -423,16 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="76" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -693,13 +657,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/component/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="-267">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#136#183#0" expanded="true" />
             <element signature="e#323#381#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
