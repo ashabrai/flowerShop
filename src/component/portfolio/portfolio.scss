@@ -1,0 +1,10 @@
+.container {
+  flex-flow: row;
+}
+.item{
+  img {
+    width: 400px;
+    height: 500px;
+    align-items: center;
+  }
+}
