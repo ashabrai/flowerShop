@@ -2,19 +2,30 @@
 
 body {
   font-family: sans-serif;
-  color: $color1;
-  background-color: $color3;
+  color: $color3;
+  background-color: white;
+  //position: relative;
+  height: 100%;
+  margin-left:auto;
+  margin-right:auto;
+
+}
+.main-Container {
+  min-height: 100%;
+  overflow: hidden;
+  display: block;
   position: relative;
 
 }
 
 footer {
   width: 100%;
-  padding: 5%;
-  background-color: $color1;
-  position: absolute;
+  height: 20px;
+  font-family: Grand Hotel,cursive;
+  background-color: white;
+  text-align: center;
+  position: fixed;
   bottom: 0;
-  left: 0;
   color: $color4;
   p {
     margin-bottom: 0;
@@ -30,7 +41,7 @@ button:hover {
 
 a {
   text-decoration: none;
-  color: $color1;
+  color: $color5;
   &:hover {
     color: $color2;
   }
@@ -70,16 +81,10 @@ html {
 }
 
 header{
-  font-family: Niramit, serif;
+  font-family: Bad Script, cursive;
   font-size: 30px;
-  color: white;
-  border-radius: 70% 70% 70% 70%;
+  color: $color4;
 
-  //border: solid $color2;
-  //padding: .5%;
-  background-color: $color3;
-  //margin-bottom: -5%;
-  //box-shadow: 0px 1px #0000003b;
 }
 
 .navStyle ul {
@@ -96,10 +101,10 @@ header{
 .navStyle {
   display: flex;
   padding: 2% 0 1% 5%;
-  //background: $color-accent;
-  position: fixed;
+  background: none;
+  position: relative;
   width: 100%;
-  box-shadow: 1px 1px #0000003b;
+  //box-shadow: 1px 1px #0000003b;
   li {
     font-family: 'Oswald', sans-serif;
     font-size: 20px;

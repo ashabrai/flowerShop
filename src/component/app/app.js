@@ -5,30 +5,26 @@ import { BrowserRouter, Route, Link } from 'react-router-dom';
 import Dashboard from '../dashboard/dashboard';
 import AboutShop from '../aboutShop/about-shop';
 import Services from '../services/services';
-// import Contact from '../contact/contact';
+import ContactForm from '../contact-form/contact-form';
 import AuthRedirect from '../auth-redirect/auth-redirect';
 import Portfolio from "../portfolio/portfolio";
+import '../../../style/base.scss';
 
 
 class App extends React.Component {
     render() {
         return (
-            <div>
+            <div className='main-container'>
                 <BrowserRouter>
                     <React.Fragment>
                         <nav className='navStyle'>
-                            <header>
-                                <span>Millsweet & Co</span>
+                            <header>MILLSWEET & CO
                             </header>
                             <ul>
-                                <li><Link to='/'>Home</Link></li>
-                                <li><Link to='/dashboard'>Shop</Link></li>
+                                <li><Link to='/dashboard'>Home</Link></li>
                                 <li><Link to='/portfolio'>Portfolio</Link></li>
                                 <li><Link to='/services'>Services</Link></li>
                                 <li><Link to='/contact'>Contact</Link></li>
-                            </ul>
-                            <ul>
-                                <li><Link to='/shoppingCart'>Shopping Cart</Link></li>
                             </ul>
                         </nav>
                         <div>
@@ -38,6 +34,7 @@ class App extends React.Component {
                             <Route exact path='/aboutShop' component={AboutShop}/>
                             <Route exact path='/portfolio' component={Portfolio}/>
                             <Route exact path='/services' component={Services}/>
+                            <Route exact path ='/contact' component={ContactForm}/>
                         </div>
                         <footer>
                             <p>copyright &copy; 2018 Millsweet</p>
