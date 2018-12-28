@@ -1,0 +1,28 @@
+.formLayout {
+  padding: 5%;
+  width: 500px;
+  border: 1px solid;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top:50px;
+  text-align: center;
+
+  img{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width:350px;
+    height: 450px;
+  }
+
+  form input {
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+  }
+  form textarea {
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+  }
+}
+

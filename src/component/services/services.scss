@@ -1,0 +1,20 @@
+
+.section-Container {
+  position: relative;
+  img {
+    float:left;
+    width: 350px;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 10%;
+  }
+}
+.info-section {
+  overflow: auto;
+  p{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 80%;
+  }
+
+}

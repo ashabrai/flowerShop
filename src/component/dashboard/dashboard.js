@@ -1,7 +1,7 @@
 import React from 'react';
 import Portfolio from "../portfolio/portfolio";
-import AboutShop from "../aboutShop/about-shop";
 
+import './dashboard.scss';
 
 class Dashboard extends React.Component {
     constructor(props) {
@@ -11,9 +11,7 @@ class Dashboard extends React.Component {
     render() {
         return (
             <section>
-                <p> Welcome to Millsweet Flower Co.</p>
-                <AboutShop/>
-                <Portfolio/>
+                <p className='dashboard-Greeting'> Welcome to Millsweet Flower Co.</p>
             </section>
         );
     }
