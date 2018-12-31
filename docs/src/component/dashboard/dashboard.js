@@ -1,5 +1,4 @@
 import React from 'react';
-import Portfolio from "../portfolio/portfolio";
 
 import './dashboard.scss';
 
