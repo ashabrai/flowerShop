@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff511ce-dc4b-44bf-b0e1-13b63cdee311" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/component/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/services/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/services/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,7 +35,7 @@
           <entry key="jpg" value="40" />
           <entry key="js" value="184" />
           <entry key="json" value="10" />
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
           <entry key="scss" value="43" />
         </counts>
       </usages-collector>
@@ -46,7 +45,7 @@
           <entry key="Image" value="52" />
           <entry key="JSON" value="12" />
           <entry key="JavaScript" value="184" />
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="SCSS" value="43" />
         </counts>
@@ -55,7 +54,7 @@
         <counts>
           <entry key="js" value="10652" />
           <entry key="json" value="5" />
-          <entry key="md" value="1784" />
+          <entry key="md" value="2515" />
           <entry key="scss" value="1953" />
         </counts>
       </usages-collector>
@@ -63,7 +62,7 @@
         <counts>
           <entry key="JSON" value="5" />
           <entry key="JavaScript" value="10652" />
-          <entry key="Markdown" value="1784" />
+          <entry key="Markdown" value="2515" />
           <entry key="SCSS" value="1953" />
         </counts>
       </usages-collector>
@@ -96,14 +95,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/component/services/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -177,15 +188,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/base.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="992">
-              <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -220,7 +222,6 @@
         <option value="$PROJECT_DIR$/style/variable.scss" />
         <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/src/component/aboutShop/about-shop.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/component/dashboard/dashboard.scss" />
         <option value="$PROJECT_DIR$/src/component/dashboard/dashboard.js" />
         <option value="$PROJECT_DIR$/src/component/portfolio/portfolio.scss" />
@@ -233,6 +234,7 @@
         <option value="$PROJECT_DIR$/style/base.scss" />
         <option value="$PROJECT_DIR$/src/component/app/app.js" />
         <option value="$PROJECT_DIR$/src/component/services/services.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -296,32 +298,6 @@
               <item name="flowerShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="flowerShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flowerShop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flowerShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flowerShop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flowerShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flowerShop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flowerShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flowerShop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reducer" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -376,15 +352,15 @@
       <workItem from="1544911685577" duration="15130000" />
       <workItem from="1545283430499" duration="1056000" />
       <workItem from="1545294276683" duration="42014000" />
-      <workItem from="1545865691394" duration="6868000" />
+      <workItem from="1545865691394" duration="7323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65068000" />
+    <option name="totallyTimeSpent" value="65523000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="23" width="1012" height="727" extended-state="0" />
+    <frame x="89" y="127" width="1012" height="727" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29061553" />
@@ -542,16 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -755,11 +721,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/component/services/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
