@@ -21,7 +21,6 @@ class App extends React.Component {
                             <header>MILLSWEET & CO
                             </header>
                             <ul>
-                                <li><Link to='/dashboard'>Home</Link></li>
                                 <li><Link to='/portfolio'>Portfolio</Link></li>
                                 <li><Link to='/services'>Services</Link></li>
                                 <li><Link to='/contact'>Contact</Link></li>
