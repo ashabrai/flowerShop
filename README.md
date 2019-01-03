@@ -16,6 +16,11 @@ Features I would work on to make it more functional:
 
 Site built with React
 
+## Photos of Design 
+- Version 1.2 
+
+
+
 ### Designed and Created
 
 Brai Frauen
